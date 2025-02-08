@@ -1,1 +1,2 @@
 # Amazon-Clone
+CLONED WEBSITE FOR AMAZON
